@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/rafaelsescato/CRUD-CLI)
+
 # CRUD - Python 3 and MySQL
 
 ![screenshot.jpg](screenshot.jpg?raw=true "screenshot.jpg")
